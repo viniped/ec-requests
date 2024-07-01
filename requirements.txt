@@ -1,0 +1,4 @@
+requests
+pyfiglet
+colorama
+getpass4
