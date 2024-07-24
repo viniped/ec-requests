@@ -1,5 +1,5 @@
-# Estrategia-dl
-Script para realizar o download de cursos da plataforma estratégia concursos de maneira automatizada
+# Ec-requests
+Download de maneira automatizada
 
 # Do direito de consumo
 
@@ -25,8 +25,8 @@ No entanto, ao fazer isso, pedimos gentilmente que você forneça os devidos cr�
 
 ## O que pode acontecer se eu não cumprir os termos da licença?
 
-Caso o desenvolvedor desse repositório ['viniped/estrategia-dl'](https://github.com/viniped/estrategia-dl) encontre um repositório que não está cumprindo os termos da licença referidos a esse repositório ['viniped/estrategia-dl'](https://github.com/viniped/estrategia-dl)  
-o desenvolvedor e detenteor de direitos autorais do repositório ['viniped/estrategia-dl'](https://github.com/viniped/estrategia-dl) irá em primeira mão procurar uma solução amigável entrando em contato direto e solicitando a atribução de créditos,
+Caso o desenvolvedor desse repositório ['viniped/ec-requests'](https://github.com/viniped/ec-requests) encontre um repositório que não está cumprindo os termos da licença referidos a esse repositório ['viniped/ec-requests'](https://github.com/viniped/ec-requests)  
+o desenvolvedor e detenteor de direitos autorais do repositório ['viniped/ec-requests'](https://github.com/viniped/ec-requests) irá em primeira mão procurar uma solução amigável entrando em contato direto e solicitando a atribução de créditos,
 caso a via amigável seja ignorada ou não atendida o desenvolvedor, ciente dos termos de uso da plataforma doravante denominada [GitHub](https://github.com/) irá abrir uma reclamação formal 
 através do formulário de suporte da plataforma ou através de um aviso de DMCA (Digital Millennium Copyright Act).
 
