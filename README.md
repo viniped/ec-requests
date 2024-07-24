@@ -1,7 +1,7 @@
 # Ec-requests
 Download de maneira automatizada
 
-# Do direito de consumo
+# Do direito de Consumo
 
 Esse script foi feito partindo da primicia que o usuario pode e tem o direito de consumir um contéudo de assinatura o qual possui licença , geralmente cursos por assinatura duram por 1 ano , então o usuario do script poderá baixar seus conteúdos e armazena-los em seu computador, sem redistribuir, sendo material apenas para consumo próprio, enquanto durar o seu período de assinatura
 
